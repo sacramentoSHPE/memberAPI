@@ -1,0 +1,6 @@
+{
+    "emailList": "SELECT * FROM mailingList",
+    "members": "SELECT * FROM member",
+    "activeMembers": "SELECT * FROM member WHERE isActive = 1", 
+    "shirtSize": "SELECT shirtSize FROM member"
+}
